@@ -1,0 +1,52 @@
+=== Mouse & Keyboard Events ===
+
+=== Network Interfaces ===
+Name: {833ADA03-0D57-45E5-A011-508D00626227}
+Desc: I
+Type: 6
+Status: 2
+IPv4: 169.254.147.14
+IPv6: fe80::3f7b:23c1:aff9:febb
+
+Name: {79204600-1138-4E45-AC98-A294BB182C9A}
+Desc: H
+Type: 6
+Status: 1
+IPv4: 172.25.96.1
+IPv6: fe80::5490:bbc9:d564:b80b
+
+Name: {55E8E002-1405-4BA6-9556-2B7F94222290}
+Desc: M
+Type: 71
+Status: 2
+IPv4: 169.254.40.12
+IPv6: fe80::ddf:306f:ac55:a7cc
+
+Name: {D0EEFC53-046F-4C55-A8B7-F4DFC708A710}
+Desc: M
+Type: 71
+Status: 2
+IPv4: 169.254.54.128
+IPv6: fe80::ad6e:bca9:723:da9
+
+Name: {FFA1D374-5174-48CE-99BC-17397EDEEE32}
+Desc: I
+Type: 71
+Status: 1
+IPv4: 192.168.1.8
+IPv6: fe80::2287:39b:a27e:2762
+
+Name: {9604A774-1F8B-40AC-9EB4-B27ED0AB2287}
+Desc: B
+Type: 6
+Status: 2
+IPv4: 169.254.202.254
+IPv6: fe80::56a2:980d:70a6:3dab
+
+Name: {ABF73243-E3F6-11F0-BF9B-806E6F6E6963}
+Desc: S
+Type: 24
+Status: 1
+IPv4: 127.0.0.1
+IPv6: ::1
+
